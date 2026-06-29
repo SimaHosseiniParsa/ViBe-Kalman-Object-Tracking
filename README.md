@@ -35,10 +35,11 @@ The implementation is organized into modular MATLAB components:
 
 ### Main Pipeline
 - Main.m: Controls the full video processing workflow 
-![Flowchart of the proposed algorithm](images/flowchart.png)
+
 <p align="center">
   <img src="images/flowchart.png" width="700">
 </p>
+
 <p align="center">
   <b>Figure 1.</b>  Flowchart of the proposed algorithm.
 </p>
