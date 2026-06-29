@@ -68,15 +68,13 @@ The tracking performance of the proposed method was evaluated using both traject
 </p>
 
 Processing time comparison among the classical ViBe algorithm, the proposed algorithm, and the Mean Shift tracker.
-<p align="center"> 
-   <b>
+<p align="center"><b>
 | Video | ViBe | Proposed | Mean Shift |
 |-------|------:|---------:|-----------:|
 | Box   | ~0.12 s | ~0.10 s | ~0.15 s |
 | Car1  | ~0.012 s | ~0.009 s | ~0.10 s |
 | Car2  | ~0.13 s | ~0.14 s | ~0.15 s |
-</b>
-</p>
+</b></p>
 
 
 --- 
