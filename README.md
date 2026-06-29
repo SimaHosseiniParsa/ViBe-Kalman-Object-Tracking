@@ -10,7 +10,7 @@ The implementation is developed in MATLAB and includes both modular and simplifi
   <img src="images/Box.png" width="700">
 </p>
 <p align="center">
-  <b>Figure 1.</b> Results of the proposed algorithm on the Box video. (a) Background image without the moving object, (b) moving foreground object, (c) occlusion scenario with the object position estimated by the Kalman filter, (d) ground-truth tracking annotation corresponding to (b), and (e) ground-truth tracking annotation corresponding to the occlusion scenario in (c).
+ Results of the proposed algorithm on the Box video. (a) Background image without the moving object, (b) moving foreground object, (c) occlusion scenario with the object position estimated by the Kalman filter, (d) ground-truth tracking annotation corresponding to (b), and (e) ground-truth tracking annotation corresponding to the occlusion scenario in (c).
 </p>
 
 --- 
