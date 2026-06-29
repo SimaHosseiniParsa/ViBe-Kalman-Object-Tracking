@@ -121,14 +121,15 @@ Possible extensions of this work include:
 │       ├── gtbox.txt
 │       ├── gtcar1.txt
 │       └── gtcar2.txt
-└── images/
-│       ├── Box.png
-│       ├── boxacuracy.png
-│       └── flowchart.jpeg
+│
+├── images/
+│   ├── results_box.png
+│   ├── flowchart.png
+│   └── performance.png
+│
 ├── Project_Report.pdf
 ├── Project_Summary.pdf
 └── README.md
-
 ```
 
 ### Code Description
