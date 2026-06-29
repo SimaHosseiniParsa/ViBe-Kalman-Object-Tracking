@@ -6,7 +6,7 @@ This project presents a video-based object tracking framework that combines ViBe
 The system processes video sequences frame-by-frame and estimates object trajectories over time. The main objective is to improve the tracking performance of the classical ViBe algorithm by integrating a Kalman filter, without relying on deep learning models.
 
 The implementation is developed in MATLAB and includes both modular and simplified versions to improve code readability and facilitate understanding of the proposed framework.
- ![Results of the proposed algorithm](images/Box.png)
+
  <p align="center">
   <img src="images/Box.png" width="700">
 </p>
