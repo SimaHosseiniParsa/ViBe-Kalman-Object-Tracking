@@ -35,7 +35,7 @@ The implementation is organized into modular MATLAB components:
 - Main.m: Controls the full video processing workflow 
 
 <p align="center">
-  <img src="images/flowchart.png" width="700">
+  <img src="images/flowchart.png">
 </p>
 <p align="center">
   <b>Figure 1.</b>  Flowchart of the proposed algorithm.
