@@ -10,7 +10,7 @@ The implementation is developed in MATLAB and includes both modular and simplifi
   <img src="images/Box.png" width="700">
 </p>
 <p align="center">
- Results of the proposed algorithm on the Box video. (a) Background image without the moving object, (b) moving foreground object, (c) occlusion scenario with the object position estimated by the Kalman filter, (d) ground-truth tracking annotation corresponding to (b), and (e) ground-truth tracking annotation corresponding to the occlusion scenario in (c).
+Results of the proposed algorithm on the Box video. (a) Background image without the moving object, (b) moving foreground object, (c) occlusion scenario with the object position estimated by the Kalman filter, (d) ground-truth tracking annotation corresponding to (b), and (e) ground-truth tracking annotation corresponding to the occlusion scenario in (c).
 </p>
 
 --- 
@@ -38,7 +38,7 @@ The implementation is organized into modular MATLAB components:
   <img src="images/flowchart.jpeg" width="700">
 </p>
 <p align="center">
-  <b>Figure 1.</b>  Flowchart of the proposed algorithm.
+Flowchart of the proposed algorithm.
 </p>
 
 --- 
@@ -64,7 +64,7 @@ The tracking performance of the proposed method was evaluated using both traject
 </p>
     
 <p align="center">
-  <b>Figure 1.</b> Performance evaluation of the proposed tracking algorithm on the Box video. (a) Comparison of the estimated X-coordinate with the ground-truth trajectory, (b) comparison of the estimated Y-coordinate with the ground-truth trajectory, and (c) Euclidean distance between the estimated target position and the corresponding ground truth for the proposed algorithm and the conventional Mean Shift tracker.
+Performance evaluation of the proposed tracking algorithm on the Box video. (a) Comparison of the estimated X-coordinate with the ground-truth trajectory, (b) comparison of the estimated Y-coordinate with the ground-truth trajectory, and (c) Euclidean distance between the estimated target position and the corresponding ground truth for the proposed algorithm and the conventional Mean Shift tracker.
 </p>
 
 Processing time comparison among the classical ViBe algorithm, the proposed algorithm, and the Mean Shift tracker.
