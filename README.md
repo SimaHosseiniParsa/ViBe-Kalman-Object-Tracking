@@ -69,6 +69,7 @@ Performance evaluation of the proposed tracking algorithm on the Box video. (a) 
 <p align="center">
 Processing time comparison among the classical ViBe algorithm, the proposed algorithm, and the Mean Shift tracker.
 </p>
+
 | Video | ViBe | Proposed | Mean Shift |
 |-------|------:|---------:|-----------:|
 | Box   | ~0.12 s | ~0.10 s | ~0.15 s |
