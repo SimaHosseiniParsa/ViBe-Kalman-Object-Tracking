@@ -58,7 +58,7 @@ Performance is analyzed using:
 ## Results 
 
 The tracking performance of the proposed method was evaluated using both trajectory comparison and distance-based error analysis. The estimated target coordinates obtained by the proposed algorithm and the conventional Mean Shift tracker were compared with the corresponding ground-truth bounding-box coordinates for each frame. The evaluation includes comparisons of the X- and Y-coordinate trajectories, followed by the Euclidean distance between the estimated target position and the ground truth to quantify the tracking accuracy throughout the video sequence.
- 
+  ![Results of the proposed algorithm](images/boxacuracy.png)
 <p align="center">
   <img src="images/boxacuracy" width="700">
 </p>
