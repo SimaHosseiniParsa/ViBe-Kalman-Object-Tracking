@@ -66,9 +66,9 @@ The tracking performance of the proposed method was evaluated using both traject
 <p align="center">
 Performance evaluation of the proposed tracking algorithm on the Box video. (a) Comparison of the estimated X-coordinate with the ground-truth trajectory, (b) comparison of the estimated Y-coordinate with the ground-truth trajectory, and (c) Euclidean distance between the estimated target position and the corresponding ground truth for the proposed algorithm and the conventional Mean Shift tracker.
 </p>
-
+<p align="center">
 Processing time comparison among the classical ViBe algorithm, the proposed algorithm, and the Mean Shift tracker.
-
+</p>
 | Video | ViBe | Proposed | Mean Shift |
 |-------|------:|---------:|-----------:|
 | Box   | ~0.12 s | ~0.10 s | ~0.15 s |
