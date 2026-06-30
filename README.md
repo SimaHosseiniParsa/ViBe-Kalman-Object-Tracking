@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
 # A Video-Based Object Tracking Framework using ViBe and Kalman Filter 
 
 ## Overview 
@@ -123,6 +127,7 @@ Possible extensions of this work include:
 │       └── gtcar2.txt
 │
 ├── images/
+│   ├── Banner.png
 │   ├── results_box.png
 │   ├── flowchart.png
 │   └── performance.png
