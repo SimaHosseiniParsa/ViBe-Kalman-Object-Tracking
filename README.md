@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/Banner.png" width="100%">
 </p>
 
 # A Video-Based Object Tracking Framework using ViBe and Kalman Filter 
@@ -128,9 +128,9 @@ Possible extensions of this work include:
 │
 ├── images/
 │   ├── Banner.png
-│   ├── results_box.png
-│   ├── flowchart.png
-│   └── performance.png
+│   ├── Box.png
+│   ├── boxacuracy.png
+│   └── flowchart.jpeg
 │
 ├── Project_Report.pdf
 ├── Project_Summary.pdf
