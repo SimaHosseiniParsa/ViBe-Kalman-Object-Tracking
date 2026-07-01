@@ -99,6 +99,12 @@ Possible extensions of this work include:
 ⦁	Investigation of potential applications in medical image and video analysis. 
 
 --- 
+## Potential Applications
+
+Although this project is developed and evaluated using general video sequences, the proposed framework is based on a classical computer vision-based tracking pipeline for object tracking under varying levels of noise, occlusion, and scene dynamics. These properties allow it to be considered for use in other domains that require consistent visual tracking and localization.
+In particular, the framework may be applicable to image-based medical analysis tasks, such as lesion localization and object detection in medical images (e.g., MRI, CT, and X-ray), as well as video-based medical analysis tasks, including motion tracking in ultrasound imaging and endoscopic video analysis.
+
+---
 
 ## Project Structure
 
