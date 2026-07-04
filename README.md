@@ -22,7 +22,7 @@ Results of the proposed algorithm on the Box video. (a) Background image without
 </p>
 
 <p align="center">
-  <em>Comparison between the object tracking result (left) and the original video (right).</em>
+  Comparison between the object tracking result (left) and the original video (right).
 </p>
 
 --- 
