@@ -21,6 +21,10 @@ Results of the proposed algorithm on the Box video. (a) Background image without
   <img src="docs/Box.gif" alt="Project Demo" width="850">
 </p>
 
+<p align="center">
+  <em>Comparison between the object tracking result (left) and the original video (right).</em>
+</p>
+
 --- 
 
 ## Methodology 
