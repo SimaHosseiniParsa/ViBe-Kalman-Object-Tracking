@@ -146,6 +146,9 @@ In particular, the framework may be applicable to image-based medical analysis t
 │   ├── boxacuracy.png
 │   └── flowchart.jpeg
 │
+├── docs/
+│   └── Box.gif
+│
 ├── Project_Report.pdf
 ├── Project_Summary.pdf
 └── README.md
